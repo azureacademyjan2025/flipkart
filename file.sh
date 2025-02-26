@@ -1,0 +1,2 @@
+useradd sundeep
+useradd jyothsna
